@@ -15,7 +15,6 @@ namespace ProjetoFarmacia
         public frmTelaPrincipal()
         {
             InitializeComponent();
-            //Lazaro mt gay
         }
     }
 }
